@@ -5,8 +5,8 @@
 // @description  Allows you to type German Umlauts easily with main keyboard key combinations without ust ALT+ NUM keys combination. Currently, it only works for Windows keyboard. It has not been tested for Mac.
 // @author       EresDev
 // @match        https://www.memrise.com/course/*
-// @updateURL      https://github.com/EresDev/GermanUmlautsTyper/blob/master/GermanUmlautsTyper.user.js
-// @downloadURL    https://github.com/EresDev/GermanUmlautsTyper/blob/master/GermanUmlautsTyper.user.js
+// @updateURL      https://github.com/EresDev/GermanUmlautsTyper/raw/master/GermanUmlautsTyper.user.js
+// @downloadURL    https://github.com/EresDev/GermanUmlautsTyper/raw/master/GermanUmlautsTyper.user.js
 // @grant        none
 // ==/UserScript==
 
