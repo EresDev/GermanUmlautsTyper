@@ -45,6 +45,7 @@ MIT
 **Free Software, Hell Yeah!**
 
    [method1]: <https://forum.duolingo.com/comment/3635953/An-easy-way-to-type-the-Umlaut-letters>
+   [method2]: <https://www.windowscentral.com/how-change-your-keyboard-layout-windows-10>
    [guide1]: <https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo//Open>
    [video1]: <https://www.youtube.com/watch?v=cu4XeYtqXbM>
    [guide2]: <https://github.com/EresDev/GermanUmlautsTyper/blob/master/GermanUmlautsTyper.user.js>
