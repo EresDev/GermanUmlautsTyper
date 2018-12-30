@@ -2,7 +2,7 @@
 // @name         German Umlauts Typer
 // @namespace    http://eresdev.com
 // @version      1.0.0
-// @description  Allows you to type German Umlauts easily with main keyboard button combinations without ust ALT+ NUM keys combination. Currently, it handles only works for Windows keyboard. It has not been tested for Mac.
+// @description  Allows you to type German Umlauts easily with main keyboard key combinations without ust ALT+ NUM keys combination. Currently, it only works for Windows keyboard. It has not been tested for Mac.
 // @author       EresDev
 // @match        https://www.memrise.com/course/*
 // @grant        none

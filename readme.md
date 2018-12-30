@@ -23,7 +23,7 @@ This script allows you to type German Umlauts easily without using number keys. 
 | Alt+Y | ü |
 | Alt+Shift+Y | Ü |
 | Alt+P | ö |
-| Alt+Shit+P | Ö |
+| Alt+Shift+P | Ö |
 | Alt+S | ß |
   
 It is recommended to use right alt key and use your right hand thumb to press alt key for good typing practice. May be at some later point, I will tell you why it is better. 
@@ -47,6 +47,6 @@ MIT
    [method1]: <https://forum.duolingo.com/comment/3635953/An-easy-way-to-type-the-Umlaut-letters>
    [guide1]: <https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo//Open>
    [video1]: <https://www.youtube.com/watch?v=cu4XeYtqXbM>
-   [guide2]: <http://daringfireball.net/projects/markdown/>
+   [guide2]: <https://github.com/EresDev/GermanUmlautsTyper/blob/master/GermanUmlautsTyper.js>
    
 
